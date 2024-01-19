@@ -8,7 +8,13 @@ This is a simple bus reservation system project implemented in Python. Before ru
    - Download and install a SQL database (e.g., MySQL, SQLite).
    - Create a database named `bus_reservation_system`.
 
-2. **Create Tables:**
+2. **Install Required Python Modules:**
+   - Make sure to install the following Python modules before running the application:
+     ```bash
+     pip install mysql.connector random termtables smtplib tabulate pandas
+     ```
+
+3. **Create Tables:**
    - Run the following SQL commands to create the necessary tables in the `bus_reservation_system` database.
 
    ```sql
@@ -134,5 +140,3 @@ This is a simple bus reservation system project implemented in Python. Before ru
    ```
 
 Follow the on-screen prompts to interact with the bus reservation system.
-
-Enjoy your bus reservation system!
