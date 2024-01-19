@@ -120,7 +120,7 @@ This is a simple bus reservation system project implemented in Python. Before ru
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/bus-reservation-system.git
+   git clone https://github.com/pooji04/bus-reservation-system.git
    ```
 
 2. Navigate to the project directory.
